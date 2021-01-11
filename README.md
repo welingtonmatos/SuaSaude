@@ -11,10 +11,10 @@ Para clonar o repositório use: https://github.com/welingtonmatos/SuaSaude.git
 # Executando a Aplicação
 Para executá-la é muito simples, basta rodar os seguintes comandos:
 
-  $ cd sua-saude/projeto # para acessar a pasta clonada do git
+  $ cd sua-saude/projeto  para acessar a pasta clonada do git
   
-  $ npm init -y # inicializando o package.json
+  $ npm init -y  inicializando o package.json
   
-  $ npm install serve -D # instalando o serve como dependência de desenvolvimento
+  $ npm install serve -D  instalando o serve como dependência de desenvolvimento
   
-  $ npx serve . # rodando o servidor node
+  $ npx serve .  rodando o servidor node
