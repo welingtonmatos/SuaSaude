@@ -6,7 +6,7 @@ Projeto desenvolvido com base em um projeto visto no YouTube (https://www.youtub
 
 Sinta-se a vontade caso queira rodar este projeto direto no seu browser clicando com o botão direito no arquivo index.html e, em seguida, selecionando a opção Abrir Com e selecionando o navegador de sua preferência."
 ```sh
-Para clonar o repositório use: https://github.com/welingtonmatos/SuaSaude.git
+Para clonar o repositório use: $ git clone https://github.com/welingtonmatos/SuaSaude.git
 ```
 # Executando a Aplicação
 Para executá-la é muito simples, basta rodar os seguintes comandos:
